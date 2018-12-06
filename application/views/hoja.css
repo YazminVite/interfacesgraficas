@@ -1,0 +1,4 @@
+h1 { color: blue;}
+body {background-color: aqua;}
+ul{list-style-image: url("logounid.png"); list-style-position: inside;}
+footer {align-content: center}
